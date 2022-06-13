@@ -31,7 +31,7 @@ export default function Home() {
           <hr className={styles.divider} />
 
           <h2>Claim Token DAO ATERETA</h2>
-          <h4>One ATERETA = One MATIC</h4>
+          <h4>ONE ATERETA = ONE MATIC</h4>
           <Claim tokenDropContract={tokenDropContract} />
 
           <hr className={styles.divider} />
